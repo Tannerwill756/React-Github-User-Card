@@ -1,9 +1,13 @@
 .App{
     max-width:1200px;
-    border:1px solid red;
     margin:0 auto;
+    padding:2%;
 }
 
-/* .allCards{
-    display:flex;
-} */
+h1{
+    text-align: center;
+}
+
+h2{
+    margin-left:8%;
+}

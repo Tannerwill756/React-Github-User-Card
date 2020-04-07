@@ -36,6 +36,8 @@ class App extends React.Component{
         <h1>React Github User Cards</h1>
         <div className="allCards">
           <UserCard myData={this.state.myInfo}/>
+
+          <h2>My followers</h2>
           <FollowerCard followerData={this.state.followerInfo} />
         </div>
       </div>
